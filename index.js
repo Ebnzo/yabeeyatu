@@ -1,6 +1,5 @@
 
 const SOUND_ID = 2026;
-const PLAY_SOUND = true;
 
 module.exports = function ene(mod) {
 			let edge;
